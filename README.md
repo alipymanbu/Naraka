@@ -1,33 +1,24 @@
-# <img src="common/src/main/resources/assets/naraka/textures/item/stigma_rod.png" width="24"> Naraka
+# Naraka
 
-<a href="https://modrinth.com/mod/naraka"><img src="https://img.shields.io/modrinth/dt/naraka?style=for-the-badge&logo=Modrinth&label=Modrinth"/></a> <a href="https://www.curseforge.com/minecraft/mc-mods/naraka"><img src="https://img.shields.io/curseforge/dt/1292603?style=for-the-badge&logo=CurseForge&label=CurseForge&color=%23ff6600"/></a> ![Modrinth Game Versions](https://img.shields.io/modrinth/v/naraka?style=for-the-badge&color=blue)
+本仓库是「Naraka」的安卓版本获取入口，附使用资料索引。
 
-Naraka is a Minecraft mod that introduces the legendary boss, **Herobrine**, to your world. Journey into the world,
-locate the hidden Herobrine Sanctuary, and prepare yourself to face and defeat the formidable Naraka Tyrant!
+## 安装文件资源（夸克网盘）
 
-- [Wiki](https://github.com/lalaalal/Naraka/wiki)
+> **Naraka 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/69fe9ee6c3be](https://pan.quark.cn/s/69fe9ee6c3be)
 
-## Minecraft Versions
+## 官方项目
 
-| Version | Naraka  |
-|:-------:|:-------:|
-|  26.2   | release |
-| 1.21.1  |  beta   |
-| 1.20.1  |  alpha  |
+- 上游项目：[lalaalal/Naraka](https://github.com/lalaalal/Naraka)
 
-## 🛠️ Build
+## 更多资料
 
-``` shell
-./gradlew build
-```
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Naraka/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [常见问题与故障排查](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Naraka/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E4%B8%8E%E6%95%85%E9%9A%9C%E6%8E%92%E6%9F%A5.md)
+- [战绩查询与排行榜使用说明](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Naraka/%E6%88%98%E7%BB%A9%E6%9F%A5%E8%AF%A2%E4%B8%8E%E6%8E%92%E8%A1%8C%E6%A6%9C%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
+- [排行榜段位顺序怎么看](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Naraka/%E6%8E%92%E8%A1%8C%E6%A6%9C%E6%AE%B5%E4%BD%8D%E9%A1%BA%E5%BA%8F%E6%80%8E%E4%B9%88%E7%9C%8B.md)
+- [资讯公告与组队功能怎么用](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Naraka/%E8%B5%84%E8%AE%AF%E5%85%AC%E5%91%8A%E4%B8%8E%E7%BB%84%E9%98%9F%E5%8A%9F%E8%83%BD%E6%80%8E%E4%B9%88%E7%94%A8.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
-You can find the generated Jar files in the following directories:
+---
 
-- fabric/build/libs/
-- neoforge/build/libs/
-
-## 📜 Contents
-
-| Sanctuary                                                                                                           | Herobrine                                                                                                           |                                                                                                                     |
-|:--------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|
-| <img src="https://cdn.modrinth.com/data/2InS5Swi/images/b438022bb3324e7a68ca7ad39b0e8c95e008560c.png" width="256"/> | <img src="https://cdn.modrinth.com/data/2InS5Swi/images/5916b4ae5a4ba1a4487e054857f440b7978b2e35.png" width="256"/> | <img src="https://cdn.modrinth.com/data/2InS5Swi/images/ea156b4ad4fe25b5b6854949403c0ebb3acaa492.gif" width="256"/> |
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/lalaalal/Naraka)。
